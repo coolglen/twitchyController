@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+com.glen.main.Main-Class: com.glen.main.Main
+

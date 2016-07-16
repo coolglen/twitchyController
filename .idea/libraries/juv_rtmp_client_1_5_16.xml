@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="juv-rtmp-client-1.5.16">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Jars/juv-rtmp-client-1.5.16.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
